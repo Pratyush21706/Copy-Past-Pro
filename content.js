@@ -146,3 +146,5 @@ if (performance.navigation.type === 1) {
     chrome.runtime.sendMessage({refresh:"yes"});
 }
 
+
+//Done with love by pratyush
